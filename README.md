@@ -54,7 +54,7 @@ This project implements **JWT-based authentication** with **Role-Based Access Co
 
 ## Install dependencies:
 
-    mvn install
+    mvn clean install
 
 ## Run the application:
 ```sh
